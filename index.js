@@ -1,1 +1,1 @@
-
+document.getFirstSelector(selector)
